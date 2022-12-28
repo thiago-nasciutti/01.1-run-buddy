@@ -1,13 +1,32 @@
-# a.1.2-run-buddy
+# RUN BUDDY
+
+## Table of Content
+ 
+ * [Description](#installatio)
 
 ## Description
 
-Langing page for Run Buddy, a company that matches runners with personal trainers. 
+Landing Page for Run Buddy to attract more sign-ups.
+Run Buddy is a company tach matches runners with personal trainers.
+
+## Usage
+
+
+
+## Installation
+
+## Deployed Link
+
+## Github Link
 
 ## Technologies
 
--HTML
--CSS
--Github
 
-## Github 
+## Support
+nasciutti.thiago@gmail.com
+
+## Author
+Thiago Borges Nasciutti
+
+
+
