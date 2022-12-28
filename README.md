@@ -27,9 +27,7 @@ https://thiago-nasciutti.github.io/01.1-run-buddy/
 https://github.com/thiago-nasciutti/01.1-run-buddy
 
 ## Technologies
-<img src="./assets/images/technologies/html-logo.png" width="80">
-<img src="./assets/images/technologies/css-logo.png" width="80">
-<img src="./assets/images/technologies/git-logo.png" width="80">
+<img src="./assets/images/technologies/html-logo.png" width="40">   <img src="./assets/images/technologies/css-logo.png" width="40">   <img src="./assets/images/technologies/git-logo.png" width="40">
 
 ## Support
 nasciutti.thiago@gmail.com
