@@ -17,7 +17,7 @@ Run Buddy is a company tach matches runners with personal trainers.
 
 ## Visuals
 
-![screenshot](./assets/images/screenshots/Screen%20Shot%202022-12-27%20at%208.38.17%20PM.png)
+![screenshot](./assets/images/screenshots/Screen%20Shot%202023-01-02%20at%206.21.24%20PM.png)
 
 
 ## Deploy
