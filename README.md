@@ -21,10 +21,10 @@ Run Buddy is a company tach matches runners with personal trainers.
 
 
 ## Deploy
-https://thiago-nasciutti.github.io/01.1-run-buddy/
+https://thiago-nasciutti.github.io/run-buddy-landing-page/
 
 ## Github
-https://github.com/thiago-nasciutti/01.1-run-buddy
+https://github.com/thiago-nasciutti/run-buddy-landing-page
 
 ## Technologies
 <img src="./assets/images/technologies/html.png" width="30">   <img src="./assets/images/technologies/css.png" width="30">   <img src="./assets/images/technologies/github.png" width="35">
