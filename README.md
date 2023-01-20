@@ -17,7 +17,7 @@ Run Buddy is a company tach matches runners with personal trainers.
 
 ## Visuals
 
-<img width="500" src="./assets/images/screenshot.png">
+<img width="500" src="./assets/images/screenshots/screenshot.png">
 
 
 ## Deploy
@@ -27,7 +27,7 @@ https://thiago-nasciutti.github.io/run-buddy-landing-page/
 https://github.com/thiago-nasciutti/run-buddy-landing-page
 
 ## Technologies
-<img src="./assets/images/html.png" width="30">   <img src="./assets/images/css.png" width="30">  <img src="./assets/images/github.png" width="35">
+<img src="./assets/images/technologies/html.png" width="30">   <img src="./assets/images/technologies/css.png" width="30">  <img src="./assets/images/technologies/github.png" width="35">
 
 ## Support
 nasciutti.thiago@gmail.com
