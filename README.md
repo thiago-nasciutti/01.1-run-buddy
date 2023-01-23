@@ -13,7 +13,7 @@
 ## Description
 
 Landing Page for Run Buddy to attract more sign-ups.
-Run Buddy is a company tach matches runners with personal trainers.
+Run Buddy is a company matches runners with personal trainers.
 
 ## Visuals
 
