@@ -22,7 +22,7 @@ Run Buddy is a company matches runners with personal trainers.
 
 
 ## Deploy
-https://thiago-nasciutti.github.io/run-buddy-landing-page/
+https://thiago-nasciutti.github.io/run-buddy/
 
 ## Github
 https://github.com/thiago-nasciutti/run-buddy-landing-page
